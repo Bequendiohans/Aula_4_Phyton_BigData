@@ -1,6 +1,6 @@
 #Verificador de descontos
 #Sistema de descontos para compras acima de R$250,00
-# Se atentar para usar o "f" no "print" para chamar variáveis atribuidas anteriormente.
+#*Se atentar para usar o "f" no "print" para chamar variáveis atribuidas anteriormente.*
 
 compra = float(input('Qual o valor da sua compra? '))
 
